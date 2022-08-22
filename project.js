@@ -1,7 +1,7 @@
 var player_1 = prompt("Player_1 Enter your Name ")
-alert(player_1+" You will be blue")
+alert(player_1+" You will be Red")
 var player_2 = prompt("Player_2 Enter your Name ")
-alert(player_2+" You will be Red")
+alert(player_2+" You will be Blue")
 
 // color of players
 var color_1 = 'rgb(122, 7, 7)'
